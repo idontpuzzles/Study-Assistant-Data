@@ -1,5 +1,5 @@
 {
-    "version": 1,
+    "version": 2,
     "metadata": {
         "lastUpdated": "2025-11-28",
         "description": "External database for Publication Tracker app. Hosted on GitHub Pages."
@@ -285,6 +285,14 @@
             "abbreviation": "od",
             "totalChapters": 17,
             "releaseYear": 2005
+        },
+        {
+            "id": "yp1",
+            "title": "Young Peple Ask, Volume 1",
+            "category": "Book",
+            "abbreviation": "yp1",
+            "totalChapters": 39,
+            "releaseYear": 2011
         },
         {
             "id": "wcg",
