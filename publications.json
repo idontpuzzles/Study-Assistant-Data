@@ -1,0 +1,324 @@
+{
+    "version": 1,
+    "metadata": {
+        "lastUpdated": "2025-11-28",
+        "description": "External database for Publication Tracker app. Hosted on GitHub Pages."
+    },
+    "publications": [
+        {
+            "id": "lff",
+            "title": "Enjoy Life Forever!",
+            "category": "Book",
+            "abbreviation": "lff",
+            "totalChapters": 60,
+            "releaseYear": 2021,
+            "urlConfig": {
+                "mode": "pattern",
+                "pattern": "https://www.jw.org/finder?wtlocale=E&docid=11020212{chapter_padded}"
+            }
+        },
+        {
+            "id": "rr",
+            "title": "Pure Worship of Jehovah—Restored At Last!",
+            "category": "Book",
+            "abbreviation": "rr",
+            "totalChapters": 22,
+            "releaseYear": 2018,
+            "urlConfig": {
+                "mode": "map",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "chapterMap": {
+                    "1": 1102017161,
+                    "2": 1102017162,
+                    "3": 1102017163,
+                    "4": 1102017164,
+                    "5": 1102017165,
+                    "6": 1102017166,
+                    "7": 1102017167,
+                    "8": 1102017168,
+                    "9": 1102017169,
+                    "10": 1102017170,
+                    "11": 1102017171,
+                    "12": 1102017172,
+                    "13": 1102017173,
+                    "14": 1102017174,
+                    "15": 1102017175,
+                    "16": 1102017176,
+                    "17": 1102017177,
+                    "18": 1102017178,
+                    "19": 1102017179,
+                    "20": 1102017180,
+                    "21": 1102017191,
+                    "22": 1102017192
+                }
+            }
+        },
+        {
+            "id": "cl",
+            "title": "Draw Close to Jehovah",
+            "category": "Book",
+            "abbreviation": "cl",
+            "totalChapters": 31,
+            "releaseYear": 2002,
+            "urlConfig": {
+                "mode": "map",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "chapterMap": {
+                    "1": 1102002022,
+                    "2": 1102002023,
+                    "3": 1102002024,
+                    "4": 1102002026,
+                    "5": 1102002027,
+                    "6": 1102002028,
+                    "7": 1102002029,
+                    "8": 1102002030,
+                    "9": 1102002031,
+                    "10": 1102002032,
+                    "11": 1102002034,
+                    "12": 1102002035,
+                    "13": 1102002036,
+                    "14": 1102002037,
+                    "15": 1102002038,
+                    "16": 1102002039,
+                    "17": 1102002041,
+                    "18": 1102002042,
+                    "19": 1102002043,
+                    "20": 1102002044,
+                    "21": 1102002045,
+                    "22": 1102002046,
+                    "23": 1102002048,
+                    "24": 1102002049,
+                    "25": 1102002050,
+                    "26": 1102002051,
+                    "27": 1102002052,
+                    "28": 1102002053,
+                    "29": 1102002054,
+                    "30": 1102002055,
+                    "31": 1102002056
+                }
+            }
+        },
+        {
+            "id": "bt",
+            "title": "\"Bearing Thorough Witness\" About God's Kingdom",
+            "category": "Book",
+            "abbreviation": "bt",
+            "totalChapters": 28,
+            "releaseYear": 2009,
+            "urlConfig": {
+                "mode": "map",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "chapterMap": {
+                    "1": 1102009041,
+                    "2": 1102009043,
+                    "3": 1102009044,
+                    "4": 1102009045,
+                    "5": 1102009046,
+                    "6": 1102009048,
+                    "7": 1102009049,
+                    "8": 1102009050,
+                    "9": 1102009052,
+                    "10": 1102009053,
+                    "11": 1102009055,
+                    "12": 1102009056,
+                    "13": 1102009069,
+                    "14": 1102009057,
+                    "15": 1102009059,
+                    "16": 1102009060,
+                    "17": 1102009061,
+                    "18": 1102009062,
+                    "19": 1102009063,
+                    "20": 1102009066,
+                    "21": 1102009067,
+                    "22": 1102009068,
+                    "23": 1102009071,
+                    "24": 1102009072,
+                    "25": 1102009073,
+                    "26": 1102009074,
+                    "27": 1102009075,
+                    "28": 1102009076
+                }
+            }
+        },
+        {
+            "id": "cf",
+            "title": "\"Come Be My Follower\"",
+            "category": "Book",
+            "abbreviation": "cf",
+            "totalChapters": 18,
+            "releaseYear": 2007,
+            "urlConfig": {
+                "mode": "map",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "chapterMap": {
+                    "1": 1102007041,
+                    "2": 1102007042,
+                    "3": 1102007044,
+                    "4": 1102007045,
+                    "5": 1102007046,
+                    "6": 1102007047,
+                    "7": 1102007048,
+                    "8": 1102007050,
+                    "9": 1102007051,
+                    "10": 1102007052,
+                    "11": 1102007053,
+                    "12": 1102007054,
+                    "13": 1102007056,
+                    "14": 1102007057,
+                    "15": 1102007058,
+                    "16": 1102007059,
+                    "17": 1102007060,
+                    "18": 1102007061
+                }
+            }
+        },
+        {
+            "id": "kr",
+            "title": "God's Kingdom Rules!",
+            "category": "Book",
+            "abbreviation": "kr",
+            "totalChapters": 22,
+            "releaseYear": 2014,
+            "urlConfig": {
+                "mode": "map",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "chapterMap": {
+                    "1": 1102014240,
+                    "2": 1102014241,
+                    "3": 1102014242,
+                    "4": 1102014243,
+                    "5": 1102014244,
+                    "6": 1102014245,
+                    "7": 1102014246,
+                    "8": 1102014247,
+                    "9": 1102014248,
+                    "10": 1102014249,
+                    "11": 1102014250,
+                    "12": 1102014251,
+                    "13": 1102014252,
+                    "14": 1102014253,
+                    "15": 1102014254,
+                    "16": 1102014255,
+                    "17": 1102014256,
+                    "18": 1102014257,
+                    "19": 1102014258,
+                    "20": 1102014262,
+                    "21": 1102014263,
+                    "22": 1102014264
+                }
+            }
+        },
+        {
+            "id": "jr",
+            "title": "God's Word for Us Through Jeremiah",
+            "category": "Book",
+            "abbreviation": "jr",
+            "totalChapters": 15,
+            "releaseYear": 2010,
+            "urlConfig": {
+                "mode": "increment",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "startId": 1102010140,
+                "chapterOffset": -1
+            }
+        },
+        {
+            "id": "lvs",
+            "title": "How to Remain in God's Love",
+            "category": "Book",
+            "abbreviation": "lvs",
+            "totalChapters": 17,
+            "releaseYear": 2017
+        },
+        {
+            "id": "ia",
+            "title": "Imitate Their Faith",
+            "category": "Book",
+            "abbreviation": "ia",
+            "totalChapters": 23,
+            "releaseYear": 2013
+        },
+        {
+            "id": "jy",
+            "title": "Jesus - The Way, the Truth, the Life",
+            "category": "Book",
+            "abbreviation": "jy",
+            "totalChapters": 139,
+            "releaseYear": 2015
+        },
+        {
+            "id": "lv",
+            "title": "\"Keep Yourselves in God's Love\"",
+            "category": "Book",
+            "abbreviation": "lv",
+            "totalChapters": 17,
+            "releaseYear": 2008
+        },
+        {
+            "id": "lr",
+            "title": "Learn From the Great Teacher",
+            "category": "Book",
+            "abbreviation": "lr",
+            "totalChapters": 48,
+            "releaseYear": 2003
+        },
+        {
+            "id": "lfb",
+            "title": "Lessons You Can Learn From the Bible",
+            "category": "Book",
+            "abbreviation": "lfb",
+            "totalChapters": 103,
+            "releaseYear": 2017
+        },
+        {
+            "id": "jd",
+            "title": "Live With Jehovah's Day in Mind",
+            "category": "Book",
+            "abbreviation": "jd",
+            "totalChapters": 14,
+            "releaseYear": 2006
+        },
+        {
+            "id": "od",
+            "title": "Organized to Do Jehovah's Will",
+            "category": "Book",
+            "abbreviation": "od",
+            "totalChapters": 17,
+            "releaseYear": 2005
+        },
+        {
+            "id": "wcg",
+            "title": "Walk Courageously With God",
+            "category": "Book",
+            "abbreviation": "wcg",
+            "totalChapters": 54,
+            "releaseYear": 2025,
+            "urlConfig": {
+                "mode": "pattern",
+                "pattern": "https://www.jw.org/finder?wtlocale=E&prefer=lang&docid=11020259{chapter_padded}"
+            }
+        },
+        {
+            "id": "ip-1",
+            "title": "Isaiah's Prophecy-Light for All Mankind I",
+            "category": "Book",
+            "abbreviation": "ip-1",
+            "totalChapters": 30,
+            "releaseYear": 2000,
+            "urlConfig": {
+                "mode": "increment",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "startId": 1102000021,
+                "chapterOffset": -1
+            }
+        },
+        {
+            "id": "fg",
+            "title": "Good News From God!",
+            "category": "Brochure",
+            "abbreviation": "fg",
+            "totalChapters": 15,
+            "releaseYear": null
+        }
+    ]
+}
