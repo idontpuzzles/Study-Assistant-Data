@@ -639,13 +639,7 @@
                 "Hundreds See Him Prior to Pentecost",
                 "Christ at God’s Right Hand",
                 "Jesus Brings Paradise and Finishes His Assignment"
-            ],
-            "urlConfig": {
-                "mode": "increment",
-                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
-                "startId": 1102016011,
-                "chapterOffset": -1
-}
+            ]
         },
         {
             "id": "lv",
@@ -843,7 +837,13 @@
                 "Paul Is Sent to Rome",
                 "The Revelation to John",
                 "“Let Your Kingdom Come”"
-            ]
+            ],
+            "urlConfig": {
+                "mode": "increment",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "startId": 1102016011,
+                "chapterOffset": -1
+}
         },
         {
             "id": "jd",
