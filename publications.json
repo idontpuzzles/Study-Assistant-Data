@@ -1010,7 +1010,24 @@
             "category": "Brochure",
             "abbreviation": "fg",
             "totalChapters": 15,
-            "releaseYear": null
+            "releaseYear": 2012,
+            "chapterTitles": [
+                "What Is the Good News?",
+                "Who is God?",
+                "Is the Good News Really From God?",
+                "Who Is Jesus Christ?",
+                "What Is God's Purpose for the Earth?",
+                "What Hope Is There for the Dead?",
+                "What Is God's Kingdom?",
+                "Why Does God Allow Evil and Suffering?",
+                "How Can Your Family Be Happy?",
+                "How Can You Recognize True Worship?",
+                "How Do Bible Principles Benefit Us?",
+                "How Can You Draw Close to God?",
+                "What Is the Goods News About Religion?",
+                "Why Does God Have an Organization?",
+                "Why Should You Continue?",
+            ]
         }
     ]
 }
