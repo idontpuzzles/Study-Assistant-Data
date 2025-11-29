@@ -1,5 +1,5 @@
 {
-    "version": 8,
+    "version": 9,
     "metadata": {
         "lastUpdated": "2025-11-28",
         "description": "External database for Publication Tracker app. Hosted on GitHub Pages."
@@ -1037,18 +1037,18 @@
         },
        {
             "id": "w26.01",
-            "title": "Watchtower No. 1 2026",
+            "title": "WT Study No. 1 2026",
             "category": "Magazine",
             "abbreviation": "w26.01",
             "totalChapters": 6,
-            "releaseYear": 2016,
+            "releaseYear": 2026,
             "chapterTitles": [
                 "Continue to Satisfy Your \"Spiritual Need\"",
                 "You Can Successfully Fight Negative Feelings",
                 "Why We Need the Ransom",
                 "How Will You Respond to the Ransom?",
                 "Speak the Truth Graciously",
-                "Study Tip - Speak the Truth Graciously",
+                "Study Tip - Visualize Bible Accounts",
             ],
             "urlConfig": {
                 "mode": "increment",
