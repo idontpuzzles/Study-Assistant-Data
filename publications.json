@@ -1,5 +1,5 @@
 {
-    "version": 3,
+    "version": 4,
     "metadata": {
         "lastUpdated": "2025-11-28",
         "description": "External database for Publication Tracker app. Hosted on GitHub Pages."
