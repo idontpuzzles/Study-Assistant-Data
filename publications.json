@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "metadata": {
         "lastUpdated": "2025-11-28",
         "description": "External database for Publication Tracker app. Hosted on GitHub Pages."
@@ -639,7 +639,13 @@
                 "Hundreds See Him Prior to Pentecost",
                 "Christ at God’s Right Hand",
                 "Jesus Brings Paradise and Finishes His Assignment"
-            ]
+            ],
+            "urlConfig": {
+                "mode": "increment",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "startId": 1102016011,
+                "chapterOffset": -1
+}
         },
         {
             "id": "lv",
