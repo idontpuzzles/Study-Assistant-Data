@@ -1,5 +1,5 @@
 {
-    "version": 7,
+    "version": 8,
     "metadata": {
         "lastUpdated": "2025-11-28",
         "description": "External database for Publication Tracker app. Hosted on GitHub Pages."
@@ -1054,6 +1054,7 @@
                 "mode": "increment",
                 "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
                 "startId": 2026240,
+                "chapterOffset": -1
     }
         },
     ]
