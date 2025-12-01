@@ -1,7 +1,7 @@
 {
-    "version": 10,
+    "version": 11,
     "metadata": {
-        "lastUpdated": "2025-11-30",
+        "lastUpdated": "2025-12-01",
         "description": "External database for Publication Tracker app. Hosted on GitHub Pages."
     },
     "publications": [
@@ -1056,6 +1056,7 @@
                 "startId": 2025240,
                 "chapterOffset": -1
     }
+     },
            {
             "id": "w25.02",
             "title": "WT Study - 02/25",
@@ -1079,6 +1080,7 @@
                 "startId": 2025290,
                 "chapterOffset": -1
     }
+           },
             {
             "id": "w25.03",
             "title": "WT Study - 03/25",
@@ -1100,6 +1102,7 @@
                 "startId": 2025320,
                 "chapterOffset": -1
     }
+            },
              {
             "id": "w25.04",
             "title": "WT Study - 04/25",
@@ -1121,6 +1124,7 @@
                 "startId": 2025360,
                 "chapterOffset": -1
     }
+            },
               {
             "id": "w25.05",
             "title": "WT Study - 05/25",
@@ -1142,6 +1146,7 @@
                 "startId": 2025400,
                 "chapterOffset": -1
     }
+              },
            {
             "id": "w25.06",
             "title": "WT Study - 06/25",
@@ -1163,6 +1168,7 @@
                 "startId": 2025440,
                 "chapterOffset": -1
     }
+           },
             {
             "id": "w25.07",
             "title": "WT Study - 07/25",
@@ -1185,6 +1191,7 @@
                 "startId": 2025480,
                 "chapterOffset": -1
     }
+            },
          {
             "id": "w25.08",
             "title": "WT Study - 08/25",
@@ -1207,6 +1214,7 @@
                 "startId": 2025520,
                 "chapterOffset": -1
     }
+         },
           {
             "id": "w25.09",
             "title": "WT Study - 09/25",
@@ -1229,6 +1237,7 @@
                 "startId": 2025560,
                 "chapterOffset": -1
     }
+          },
            {
             "id": "w25.10",
             "title": "WT Study - 10/25",
@@ -1251,6 +1260,7 @@
                 "startId": 2025600,
                 "chapterOffset": -1
     }
+           },
             {
             "id": "w25.11",
             "title": "WT Study - 11/25",
@@ -1275,6 +1285,7 @@
                 "startId": 2025640,
                 "chapterOffset": -1
     }
+            },
              {
             "id": "w25.12",
             "title": "WT Study - 12/25",
@@ -1297,6 +1308,7 @@
                 "startId": 2025680,
                 "chapterOffset": -1
     }
+             },
         {
             "id": "w26.01",
             "title": "WT Study - 01/26",
