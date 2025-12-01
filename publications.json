@@ -1,7 +1,7 @@
 {
-    "version": 9,
+    "version": 10,
     "metadata": {
-        "lastUpdated": "2025-11-28",
+        "lastUpdated": "2025-11-30",
         "description": "External database for Publication Tracker app. Hosted on GitHub Pages."
     },
     "publications": [
@@ -1035,9 +1035,271 @@
                 "Why Should You Continue?",
             ]
         },
-       {
+     {
+            "id": "w25.01",
+            "title": "WT Study - 01/25",
+            "category": "Magazine",
+            "abbreviation": "w25.01",
+            "totalChapters": 6,
+            "releaseYear": 2025,
+            "chapterTitles": [
+                "Give Glory to Jehovah",
+                "Husbands, Honor Your Wife",
+                "Make Decisions That Please Jehovah",
+                "What Does the Ransom Teach Us?",
+                "How We Benefit From Jehovah's Love",
+                "Study Tip - Drawing to Aid Memory",
+            ],
+            "urlConfig": {
+                "mode": "increment",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "startId": 2025240,
+                "chapterOffset": -1
+    }
+           {
+            "id": "w25.02",
+            "title": "WT Study - 02/25",
+            "category": "Magazine",
+            "abbreviation": "w25.02",
+            "totalChapters": 8,
+            "releaseYear": 2025,
+            "chapterTitles": [
+                "Jehovah's Forgiveness-Why We Appreciate It",
+                "Jehovah's Forgiveness-What It Means for You",
+                "Jehovah's Forgiveness-How Can You Imitate It?",
+                "Life Story - \"I Was Never Alone\"",
+                "Reject the Selfish Spirit of Today's World",
+                "How to Be a True Friend",
+                "A Simple Question That Anyone Can Ask",
+                "Study Project - Showing Courage Under Preassure",
+            ],
+            "urlConfig": {
+                "mode": "increment",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "startId": 2025290,
+                "chapterOffset": -1
+    }
+            {
+            "id": "w25.03",
+            "title": "WT Study - 03/25",
+            "category": "Magazine",
+            "abbreviation": "w25.03",
+            "totalChapters": 6,
+            "releaseYear": 2025,
+            "chapterTitles": [
+                "Get Baptized Without Delay",
+                "Imitate Jehovah and Jesus in Your Way of Thinking",
+                "Imitate Jesus' Zeal for Preaching",
+                "Keep Walking by Faith",
+                "Jehovah's Hand Is Never Too Short",
+                "Study Tip - Use the Mirror Properly",
+            ],
+            "urlConfig": {
+                "mode": "increment",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "startId": 2025320,
+                "chapterOffset": -1
+    }
+             {
+            "id": "w25.04",
+            "title": "WT Study - 04/25",
+            "category": "Magazine",
+            "abbreviation": "w25.04",
+            "totalChapters": 6,
+            "releaseYear": 2025,
+            "chapterTitles": [
+                "\"Choose for Yourselves...Whom You Will Serve\"",
+                "\"Drawing Near to God is Good\" for Us!",
+                "Drawing Close to One Another Is Good for Us!",
+                "We Are Never Alone",
+                "Young Brothers-Imitate Mark and Timothy",
+                "Study Tip - Get the Most From the Artwork",
+            ],
+            "urlConfig": {
+                "mode": "increment",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "startId": 2025360,
+                "chapterOffset": -1
+    }
+              {
+            "id": "w25.05",
+            "title": "WT Study - 05/25",
+            "category": "Magazine",
+            "abbreviation": "w25.05",
+            "totalChapters": 6,
+            "releaseYear": 2025,
+            "chapterTitles": [
+                "Imitate the Faithful Angels",
+                "Look to Jehovah for Comfort",
+                "Seek the City That Will Remain",
+                "Jehovah's Name-What It Means to Jesus",
+                "Jehovah's Name-What It Should Mean to Us",
+                "Study Tip - Prepare Your Heart",
+            ],
+            "urlConfig": {
+                "mode": "increment",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "startId": 2025400,
+                "chapterOffset": -1
+    }
+           {
+            "id": "w25.06",
+            "title": "WT Study - 06/25",
+            "category": "Magazine",
+            "abbreviation": "w25.06",
+            "totalChapters": 6,
+            "releaseYear": 2025,
+            "chapterTitles": [
+                "Lessons for Living From a Deathbed Prophecy​—Part 1",
+                "Lessons for Living From a Deathbed Prophecy​—Part 2",
+                "Modestly Accept What You Do Not Know",
+                "Help Bible Students to Take a Stand for the Truth",
+                "Life Story - A Lifetime of Lessons From Our Grand Instructor",
+                "Study Tip - Remembering Scriptures",
+            ],
+            "urlConfig": {
+                "mode": "increment",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "startId": 2025440,
+                "chapterOffset": -1
+    }
+            {
+            "id": "w25.07",
+            "title": "WT Study - 07/25",
+            "category": "Magazine",
+            "abbreviation": "w25.07",
+            "totalChapters": 7,
+            "releaseYear": 2025,
+            "chapterTitles": [
+                "Why Seek Advice?",
+                "How to Give Advice",
+                "Can You Still Learn From Basic Bible Teachings?",
+                "Have You “Learned the Secret” of Contentment?",
+                "Life Story - \"The Battle Belongs to Jehovah\"",
+                "Did You Know?",
+                "Study Tip - Study to Share",
+            ],
+            "urlConfig": {
+                "mode": "increment",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "startId": 2025480,
+                "chapterOffset": -1
+    }
+         {
+            "id": "w25.08",
+            "title": "WT Study - 08/25",
+            "category": "Magazine",
+            "abbreviation": "w25.08",
+            "totalChapters": 7,
+            "releaseYear": 2025,
+            "chapterTitles": [
+                "How Jehovah Helps Us to Endure",
+                "Accept Jehovah’s Love",
+                "Accept Jehovah’s Forgiveness",
+                "How to Win the Fight Against Wrong Desires",
+                "Life Story - My Journey From Shyness to Missionary Service",
+                "Questions From Readers",
+                "Study Tip - Benefit From Marginal References",
+            ],
+            "urlConfig": {
+                "mode": "increment",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "startId": 2025520,
+                "chapterOffset": -1
+    }
+          {
+            "id": "w25.09",
+            "title": "WT Study - 09/25",
+            "category": "Magazine",
+            "abbreviation": "w25.09",
+            "totalChapters": 7,
+            "releaseYear": 2025,
+            "chapterTitles": [
+                "“Call the Elders”",
+                "The Best Way to Respond to Injustice",
+                "Show Respect for Others",
+                "“Rightly Disposed” Ones Will Respond",
+                "Life Story - Jehovah Helped Us to ‘Bloom Where We Were Planted’",
+                "Questions From Readers",
+                "Bible Phrase - Jesus “Learned Obedience”",
+            ],
+            "urlConfig": {
+                "mode": "increment",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "startId": 2025560,
+                "chapterOffset": -1
+    }
+           {
+            "id": "w25.10",
+            "title": "WT Study - 10/25",
+            "category": "Magazine",
+            "abbreviation": "w25.10",
+            "totalChapters": 7,
+            "releaseYear": 2025,
+            "chapterTitles": [
+                "1925​—One Hundred Years Ago",
+                "Jehovah Is Our “Exceeding Joy”",
+                "God’s Love Is Enduring",
+                "How to Improve Your Prayers",
+                "Remember to Pray for Others",
+                "Two New Members of the Governing Body",
+                "Study Tip - Maintain Your Daily Bible Reading Schedule",
+            ],
+            "urlConfig": {
+                "mode": "increment",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "startId": 2025600,
+                "chapterOffset": -1
+    }
+            {
+            "id": "w25.11",
+            "title": "WT Study - 11/25",
+            "category": "Magazine",
+            "abbreviation": "w25.11",
+            "totalChapters": 9,
+            "releaseYear": 2025,
+            "chapterTitles": [
+                "Maintain Your Joy in Old Age",
+                "Should I Stop Driving?",
+                "Maintain Your Joy as a Caregiver",
+                "Consider Our Sympathetic High Priest​—Jesus",
+                "“You Are Someone Very Precious”!",
+                "“Maintain the Oneness of the Spirit”",
+                "Help for Mistreated Women",
+                "Questions From Readers",
+                "Bible Phrase - Using Your “Spiritual Gift”",
+            ],
+            "urlConfig": {
+                "mode": "increment",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "startId": 2025640,
+                "chapterOffset": -1
+    }
+             {
+            "id": "w25.12",
+            "title": "WT Study - 12/25",
+            "category": "Magazine",
+            "abbreviation": "w25.12",
+            "totalChapters": 7,
+            "releaseYear": 2025,
+            "chapterTitles": [
+                "The Book of Job Can Help You When You Suffer",
+                "The Book of Job Can Help You When You Give Counsel",
+                "Imitate Jehovah’s Humility",
+                "How to Plan a Wedding That Brings Honor to Jehovah",
+                "Older Ones​—You Are an Asset to the Congregation",
+                "Do You Remember?",
+                "Study Project - Build Trust in Jehovah's Saving Power",
+            ],
+            "urlConfig": {
+                "mode": "increment",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "startId": 2025680,
+                "chapterOffset": -1
+    }
+        {
             "id": "w26.01",
-            "title": "WT Study No. 1 2026",
+            "title": "WT Study - 01/26",
             "category": "Magazine",
             "abbreviation": "w26.01",
             "totalChapters": 6,
