@@ -1032,7 +1032,7 @@
                 "How Can You Draw Close to God?",
                 "What Is the Goods News About Religion?",
                 "Why Does God Have an Organization?",
-                "Why Should You Continue?",
+                "Why Should You Continue?"
             ]
         },
      {
@@ -1048,10 +1048,10 @@
                 "Make Decisions That Please Jehovah",
                 "What Does the Ransom Teach Us?",
                 "How We Benefit From Jehovah's Love",
-                "Study Tip - Drawing to Aid Memory",
+                "Study Tip - Drawing to Aid Memory"
             ],
             "urlConfig": {
-                "mode": "increment",
+                "mode": "map",
                 "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
                 "startId": 2025240,
                 "chapterOffset": -1
@@ -1072,15 +1072,23 @@
                 "Reject the Selfish Spirit of Today's World",
                 "How to Be a True Friend",
                 "A Simple Question That Anyone Can Ask",
-                "Study Project - Showing Courage Under Preassure",
+                "Study Project - Showing Courage Under Preassure"
             ],
             "urlConfig": {
-                "mode": "increment",
+                "mode": "map",
                 "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
-                "startId": 2025290,
-                "chapterOffset": -1
-    }
-           },
+                "chapterMap": {
+                    "1": 2025290,
+                    "2": 2025291,
+                    "3": 2025292,
+                    "4": 2025286,
+                    "5": 2025287,
+                    "6": 2025295,
+                    "7": 2025288,
+                    "8": 2025289
+                }
+           }
+        },
             {
             "id": "w25.03",
             "title": "WT Study - 03/25",
@@ -1094,14 +1102,20 @@
                 "Imitate Jesus' Zeal for Preaching",
                 "Keep Walking by Faith",
                 "Jehovah's Hand Is Never Too Short",
-                "Study Tip - Use the Mirror Properly",
+                "Study Tip - Use the Mirror Properly"
             ],
-            "urlConfig": {
-                "mode": "increment",
+                      "urlConfig": {
+                "mode": "map",
                 "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
-                "startId": 2025320,
-                "chapterOffset": -1
-    }
+                "chapterMap": {
+                    "1": 2025320,
+                    "2": 2025321,
+                    "3": 2025322,
+                    "4": 2025325,
+                    "5": 2025326,
+                    "6": 2025327
+                }
+           }
             },
              {
             "id": "w25.04",
@@ -1116,14 +1130,20 @@
                 "Drawing Close to One Another Is Good for Us!",
                 "We Are Never Alone",
                 "Young Brothers-Imitate Mark and Timothy",
-                "Study Tip - Get the Most From the Artwork",
+                "Study Tip - Get the Most From the Artwork"
             ],
-            "urlConfig": {
-                "mode": "increment",
+                       "urlConfig": {
+                "mode": "map",
                 "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
-                "startId": 2025360,
-                "chapterOffset": -1
-    }
+                "chapterMap": {
+                    "1": 2025360,
+                    "2": 2025361,
+                    "3": 2025362,
+                    "4": 2025365,
+                    "5": 2025366,
+                    "6": 2025367
+                }
+           }
             },
               {
             "id": "w25.05",
@@ -1138,14 +1158,20 @@
                 "Seek the City That Will Remain",
                 "Jehovah's Name-What It Means to Jesus",
                 "Jehovah's Name-What It Should Mean to Us",
-                "Study Tip - Prepare Your Heart",
+                "Study Tip - Prepare Your Heart"
             ],
-            "urlConfig": {
-                "mode": "increment",
+                       "urlConfig": {
+                "mode": "map",
                 "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
-                "startId": 2025400,
-                "chapterOffset": -1
-    }
+                "chapterMap": {
+                    "1": 2025400,
+                    "2": 2025401,
+                    "3": 2025403,
+                    "4": 2025404,
+                    "5": 2025405,
+                    "6": 2025402
+                }
+           }
               },
            {
             "id": "w25.06",
@@ -1160,14 +1186,20 @@
                 "Modestly Accept What You Do Not Know",
                 "Help Bible Students to Take a Stand for the Truth",
                 "Life Story - A Lifetime of Lessons From Our Grand Instructor",
-                "Study Tip - Remembering Scriptures",
+                "Study Tip - Remembering Scriptures"
             ],
-            "urlConfig": {
-                "mode": "increment",
+                        "urlConfig": {
+                "mode": "map",
                 "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
-                "startId": 2025440,
-                "chapterOffset": -1
-    }
+                "chapterMap": {
+                    "1": 2025440,
+                    "2": 2025441,
+                    "3": 2025444,
+                    "4": 2025445,
+                    "5": 2025446,
+                    "6": 2025447
+                }
+           }
            },
             {
             "id": "w25.07",
@@ -1183,14 +1215,21 @@
                 "Have You “Learned the Secret” of Contentment?",
                 "Life Story - \"The Battle Belongs to Jehovah\"",
                 "Did You Know?",
-                "Study Tip - Study to Share",
+                "Study Tip - Study to Share"
             ],
-            "urlConfig": {
-                "mode": "increment",
+                        "urlConfig": {
+                "mode": "map",
                 "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
-                "startId": 2025480,
-                "chapterOffset": -1
-    }
+                "chapterMap": {
+                    "1": 2025480,
+                    "2": 2025481,
+                    "3": 2025486,
+                    "4": 2025487,
+                    "5": 2025482,
+                    "6": 2025483,
+                    "7": 2025488
+                }
+           }
             },
          {
             "id": "w25.08",
@@ -1206,14 +1245,21 @@
                 "How to Win the Fight Against Wrong Desires",
                 "Life Story - My Journey From Shyness to Missionary Service",
                 "Questions From Readers",
-                "Study Tip - Benefit From Marginal References",
+                "Study Tip - Benefit From Marginal References"
             ],
-            "urlConfig": {
-                "mode": "increment",
+                        "urlConfig": {
+                "mode": "map",
                 "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
-                "startId": 2025520,
-                "chapterOffset": -1
-    }
+                "chapterMap": {
+                    "1": 2025520,
+                    "2": 2025521,
+                    "3": 2025522,
+                    "4": 2025525,
+                    "5": 2025526,
+                    "6": 2025527,
+                    "7": 2025528
+                }
+           }
          },
           {
             "id": "w25.09",
@@ -1229,14 +1275,21 @@
                 "“Rightly Disposed” Ones Will Respond",
                 "Life Story - Jehovah Helped Us to ‘Bloom Where We Were Planted’",
                 "Questions From Readers",
-                "Bible Phrase - Jesus “Learned Obedience”",
+                "Bible Phrase - Jesus “Learned Obedience”"
             ],
-            "urlConfig": {
-                "mode": "increment",
+                        "urlConfig": {
+                "mode": "map",
                 "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
-                "startId": 2025560,
-                "chapterOffset": -1
-    }
+                "chapterMap": {
+                    "1": 2025560,
+                    "2": 2025561,
+                    "3": 2025565,
+                    "4": 2025566,
+                    "5": 2025562,
+                    "6": 2025569,
+                    "7": 2025567
+                }
+           }
           },
            {
             "id": "w25.10",
@@ -1252,14 +1305,21 @@
                 "How to Improve Your Prayers",
                 "Remember to Pray for Others",
                 "Two New Members of the Governing Body",
-                "Study Tip - Maintain Your Daily Bible Reading Schedule",
+                "Study Tip - Maintain Your Daily Bible Reading Schedule"
             ],
-            "urlConfig": {
-                "mode": "increment",
+                         "urlConfig": {
+                "mode": "map",
                 "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
-                "startId": 2025600,
-                "chapterOffset": -1
-    }
+                "chapterMap": {
+                    "1": 2025600,
+                    "2": 2025601,
+                    "3": 2025602,
+                    "4": 2025603,
+                    "5": 2025604,
+                    "6": 2025605,
+                    "7": 2025606
+                }
+           }
            },
             {
             "id": "w25.11",
@@ -1277,14 +1337,23 @@
                 "“Maintain the Oneness of the Spirit”",
                 "Help for Mistreated Women",
                 "Questions From Readers",
-                "Bible Phrase - Using Your “Spiritual Gift”",
+                "Bible Phrase - Using Your “Spiritual Gift”"
             ],
-            "urlConfig": {
-                "mode": "increment",
+                         "urlConfig": {
+                "mode": "map",
                 "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
-                "startId": 2025640,
-                "chapterOffset": -1
-    }
+                "chapterMap": {
+                    "1": 2025640,
+                    "2": 2025641,
+                    "3": 2025642,
+                    "4": 2025643,
+                    "5": 2025644,
+                    "6": 2025647,
+                    "7": 2025645,
+                    "8": 2025646,
+                    "9": 2025648
+                }
+           }
             },
              {
             "id": "w25.12",
@@ -1300,14 +1369,21 @@
                 "How to Plan a Wedding That Brings Honor to Jehovah",
                 "Older Ones​—You Are an Asset to the Congregation",
                 "Do You Remember?",
-                "Study Project - Build Trust in Jehovah's Saving Power",
+                "Study Project - Build Trust in Jehovah's Saving Power"
             ],
-            "urlConfig": {
-                "mode": "increment",
+                         "urlConfig": {
+                "mode": "map",
                 "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
-                "startId": 2025680,
-                "chapterOffset": -1
-    }
+                "chapterMap": {
+                    "1": 2025682,
+                    "2": 2025683,
+                    "3": 2025684,
+                    "4": 2025685,
+                    "5": 2025686,
+                    "6": 2025687,
+                    "7": 2025688
+                }
+           }
              },
         {
             "id": "w26.01",
@@ -1322,14 +1398,50 @@
                 "Why We Need the Ransom",
                 "How Will You Respond to the Ransom?",
                 "Speak the Truth Graciously",
-                "Study Tip - Visualize Bible Accounts",
+                "Study Tip - Visualize Bible Accounts"
             ],
-            "urlConfig": {
-                "mode": "increment",
+                          "urlConfig": {
+                "mode": "map",
                 "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
-                "startId": 2026240,
-                "chapterOffset": -1
-    }
+                "chapterMap": {
+                    "1": 2026240,
+                    "2": 2026241,
+                    "3": 2026243,
+                    "4": 2026244,
+                    "5": 2026242,
+                    "6": 2026245
+                }
+           }
         },
+                {
+            "id": "w26.02",
+            "title": "WT Study - 02/26",
+            "category": "Magazine",
+            "abbreviation": "w26.02",
+            "totalChapters": 7,
+            "releaseYear": 2026,
+            "chapterTitles": [
+                "How to Help Our Unbelieving Relatives",
+                "Understanding the Meaning of Baptism",
+                "Keep Working Toward Baptism",
+                "Are You Prepared for Challenges After Baptism?",
+                "Children Are “an Inheritance From Jehovah”",
+                "Questions From Readers-When will the nations proclaim “peace and security”?",
+                "Bible Character-Obadiah-Cultivate Godly Fear"
+            ],
+                          "urlConfig": {
+                "mode": "map",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "chapterMap": {
+                    "1": 2026281,
+                    "2": 2026282,
+                    "3": 2026283,
+                    "4": 2026280,
+                    "5": 2026284,
+                    "6": 2026285,
+                    "7": 2026286
+                }
+           }
+        }
     ]
 }
