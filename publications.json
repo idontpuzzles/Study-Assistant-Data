@@ -1,7 +1,7 @@
 {
-    "version": 11,
+    "version": 12,
     "metadata": {
-        "lastUpdated": "2025-12-01",
+        "lastUpdated": "2025-12-09",
         "description": "External database for Publication Tracker app. Hosted on GitHub Pages."
     },
     "publications": [
@@ -457,7 +457,11 @@
                 "Enjoy Your Work",
                 "Oppose the Devil",
                 "Remain in God’s Love"
-            ]
+            ],
+            "urlConfig": {
+                "mode": "pattern",
+                 "pattern": "https://www.jw.org/finder?wtlocale=E&docid=11020175{chapter_padded}"
+  }
         },
         {
             "id": "ia",
