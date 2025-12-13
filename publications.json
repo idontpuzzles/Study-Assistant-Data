@@ -1808,7 +1808,7 @@
                 "Jesus Finishes All God Asks"
             ],
             "urlConfig": {
-                "mode": "map",
+                "mode": "increment",
                 "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
                 "startId": 1101991003,
                 "chapterOffset": 1
@@ -1876,7 +1876,7 @@
                 "Study Tip - Drawing to Aid Memory"
             ],
             "urlConfig": {
-                "mode": "map",
+                "mode": "increment",
                 "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
                 "startId": 2025240,
                 "chapterOffset": -1
