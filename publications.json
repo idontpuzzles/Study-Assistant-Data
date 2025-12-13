@@ -1,5 +1,5 @@
 {
-    "version": 14,
+    "version": 15,
     "metadata": {
         "lastUpdated": "2025-12-12",
         "description": "External database for Publication Tracker app. Hosted on GitHub Pages."
@@ -1290,6 +1290,50 @@
                 "mode": "increment",
                 "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
                 "startId": 1102000021,
+                "chapterOffset": -1
+            }
+        },
+        {
+            "id": "ip-2",
+            "title": "Isaiah's Prophecy-Light for All Mankind II",
+            "category": "Book",
+            "abbreviation": "ip-2",
+            "totalChapters": 28,
+            "releaseYear": 2001,
+            "chapterTitles": [
+                "A Prophet of God Brings Light for Mankind",
+                "Prophetic Words of Comfort That Involve You",
+                "“My Chosen One, Whom My Soul Has Approved!”",
+                "“You Are My Witnesses”!",
+                "The True God Foretells Deliverance",
+                "Jehovah—“A Righteous God and a Savior”",
+                "Return to the Worship of Jehovah",
+                "False Religion—Its Dramatic End Foreseen",
+                "Jehovah Teaches Us for Our Good",
+                "“A Time of Goodwill”",
+                "“Do Not Put Your Trust in Nobles”",
+                "Comfort for God’s People",
+                "“Cry Out Joyfully in Unison”!",
+                "Jehovah Exalts His Messianic Servant",
+                "The Barren Woman Rejoices",
+                "A Message of Hope for Downhearted Captives",
+                "Foreigners Gathered to God’s House of Prayer",
+                "Jehovah Revives the Spirit of the Lowly Ones",
+                "Hypocrisy Exposed!",
+                "Jehovah’s Hand Has Not Become Short",
+                "True Worship Expands Worldwide",
+                "Righteousness Sprouts in Zion",
+                "“A New Name”",
+                "Jehovah Makes a Beautiful Name for Himself",
+                "A Prayer of Repentance",
+                "“Be Joyful Forever in What I Am Creating”",
+                "Jehovah Blesses Pure Worship",
+                "A Light for the Nations"
+            ],
+            "urlConfig": {
+                "mode": "increment",
+                "baseUrl": "https://www.jw.org/finder?wtlocale=E&docid={id}",
+                "startId": 1102001021,
                 "chapterOffset": -1
             }
         },
